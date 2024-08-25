@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <section class="main">
+       
+            <form class="form" action="/" method="post">
+                <div class="formtitle">
+                    <h2>User Registration</h2>
+                </div>
+                <hr>
+
+                <div class="formctl">
+                    <label for="uname">Name</label>
+                    <input type="text" id="uname" required name="name" placeholder="Enter your name">
+                </div>
+                <div class="formctl">
+                    <label for="uemail">Email</label>
+                    <input type="email" required placeholder="Enter your email" name="email" id="uemail">
+                </div>
+                <div class="formctl">
+                    <label for="udob">Date of Birth</label>
+                    <input required type="date" id="udob" name="dob">
+                </div>
+                <div class="formctl">
+                    <label for="ugender">Gender</label>
+                    <input required type="radio" name="gender" id="ugender" value="male">Male</input>
+                    <input type="radio" name="gender" id="ugender" value="female">Female</input>
+                    
+                </div>
+                <hr>
+                <div class="formfooter">
+                    <button class="btnsub" type="submit">Register</button>
+                </div>
+               
+            </form>
+        
+    </section>
+</body>
+</html>
