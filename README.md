@@ -1,6 +1,6 @@
-#Level 1: Beginner
+# Level 1: Beginner
 
-##Task 1: HTML Structure and Basic Server
+## Task 1: HTML Structure and Basic Server
 
 Interaction
 Objective: Introduce the concept of server-side rendering and basic form submissions.
