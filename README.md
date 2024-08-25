@@ -10,9 +10,8 @@ Steps:
 3. Use server-side rendering (e.g., EJS) to dynamically generate HTML.
 
 
-
-# Task 2: Inline Styles, Basic Interaction, and Server-Side Validation
-## Objective: Expand inline styles and introduce server- side validation for form submissions.
+## Task 2: Inline Styles, Basic Interaction, and Server-Side Validation
+Objective: Expand inline styles and introduce server- side validation for form submissions.
 Steps:
 Extend HTML with more complex forms and user interactions.
 1.Utilize inline JavaScript for client-side form validation.
