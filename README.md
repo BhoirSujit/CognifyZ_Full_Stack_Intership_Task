@@ -14,6 +14,6 @@ Steps:
 Objective: Expand inline styles and introduce server- side validation for form submissions.
 Steps:
 Extend HTML with more complex forms and user interactions.
-1.Utilize inline JavaScript for client-side form validation.
-2.Implement server-side validation for submitted form data.
+1. Utilize inline JavaScript for client-side form validation.
+2. Implement server-side validation for submitted form data.
 3. Store validated data in temporary server-side storage.
